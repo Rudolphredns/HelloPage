@@ -11,13 +11,8 @@ const AboutSection = () => {
 
       <div className="flex justify-between">
         <div className="w-[500px] h-[500px] rounded-full bg-transparent relative overflow-hidden">
-<<<<<<< HEAD
-          <Image
-            src="/images/heroimage1.png"
-=======
           <img
             src="/images/heroimage.png"
->>>>>>> parent of 3fe28b1 (xxx)
             alt="Description of the image"
             className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 hover:scale-110 transition-transform duration-500"
             width={300}
